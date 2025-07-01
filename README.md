@@ -44,7 +44,7 @@ This project investigates how **financial literacy** mediates the relationship b
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sidmandirwala/Financial-Literacy-and-Saving-Behavior-A-Bayesian-Approach.git
     ```
     
 2. Install Dependencies
